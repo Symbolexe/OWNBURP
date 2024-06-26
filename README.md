@@ -1,5 +1,4 @@
 # OWNBURP
-My own extensions for BurpSuite, free for you.
 ![Screenshot 2024-06-26 121146](https://github.com/Symbolexe/OWNBURP/assets/140549630/4dfb8543-a5a0-493f-be00-3c58a43c0226)
 # step-by-step guide
 ## JWT Manipulation Tool
